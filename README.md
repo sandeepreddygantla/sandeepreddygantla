@@ -2,13 +2,13 @@
 
 ## I'm a Student!
 
-- 🔭 I’m currently working on hackathons
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to 
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love PUBG🤣
 - 💬 Ask me about anything, I am happy to help
-- 📝 [[Resume]](https://sandeepreddygantla.github.io/Resume/)
+- 📝 [Resume](https://sandeepreddygantla.github.io/Resume/)
 
 ### Connect with me:
 
