@@ -2,10 +2,10 @@
 
 ## I'm a Student!
 
-- 🔭 I’m currently a student
+- 🔭 I’m currently a student at Auburn University
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love PUBG🤣
 - 💬 Ask me about anything, I am happy to help
 - 📝 [Resume](https://sandeepreddygantla.github.io/Resume/)
