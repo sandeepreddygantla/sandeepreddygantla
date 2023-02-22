@@ -37,9 +37,10 @@
 
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepreddygantla&&show_icons=true&locale=en&layout=compact" alt="sandeepreddygantla" /></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepreddygantla&&show_icons=true&locale=en&layout=compact" alt="sandeepreddygantla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepreddygantla&count_private=true&show_icons=true&locale=en" alt="sandeepreddygantla" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&count_private=true" alt="sandeepreddygantla" /></p>
 
 
