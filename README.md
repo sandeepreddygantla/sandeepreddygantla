@@ -35,11 +35,12 @@
 <img align="left" alt="Amazon aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />
 
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepreddygantla&&show_icons=true&locale=en&layout=compact" alt="amrit94" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepreddygantla&&show_icons=true&locale=en&layout=compact" alt="sandeepreddygantla" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepreddygantla&count_private=true&show_icons=true&locale=en" alt="amrit94" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&count_private=true" alt="amrit94" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepreddygantla&count_private=true&show_icons=true&locale=en" alt="sandeepreddygantla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&count_private=true" alt="sandeepreddygantla" /></p>
 
 
 [twitter]: https://twitter.com/reddysandeep090
