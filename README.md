@@ -36,6 +36,12 @@
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepreddygantla&&show_icons=true&locale=en&layout=compact" alt="amrit94" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepreddygantla&count_private=true&show_icons=true&locale=en" alt="amrit94" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&count_private=true" alt="amrit94" /></p>
+
+
 [twitter]: https://twitter.com/reddysandeep090
 [instagram]: https://www.instagram.com/gantla_sandeep_reddy/
 [linkedin]: https://www.linkedin.com/in/gantlasandeepreddy/
