@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandeep Reddy 👋
 
-## I'm a Student!
+## I'm a Aspiring Data Scientist!
 
 - 🔭 I’m currently a student at Auburn University
 - 🌱 I’m currently learning everything🤣
