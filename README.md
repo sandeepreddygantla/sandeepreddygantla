@@ -1,7 +1,4 @@
-### Hi there, I'm Sandeep Reddy 👋
-
-## I'm an Aspiring Data Scientist!
-
+<h1 align="center">Hi, I'm Sandeep Reddy Gantla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Typing SVG with Text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,10 +12,13 @@
   </a>
 </p>
 
+<h2>PROFILE</h2>
+As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
+<h2></h2>
 
 - 🔭 I’m currently a student at Auburn University
 - 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on Data Science Projects.
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love PUBG🤣
 - 💬 Ask me about anything, I am happy to help
