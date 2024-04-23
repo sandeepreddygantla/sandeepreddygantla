@@ -16,13 +16,13 @@
 As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
 <h2></h2>
 
-- 🔭 I’m currently a student at Auburn University
+- 🔭 I’m currently open to Work
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate on Data Science Projects.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love PUBG🤣
 - 💬 Ask me about anything, I am happy to help
-- 📝 [Resume](https://sandeepreddygantla.github.io/Resume/)
+<!--- 📝 [Resume](https://sandeepreddygantla.github.io/Resume/) -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -89,15 +89,19 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
+  <!--
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
+  -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
+  <!--
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
+  -->
 </p>
 
 
