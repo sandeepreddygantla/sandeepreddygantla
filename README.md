@@ -25,13 +25,13 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 <!--- 📝 [Resume](https://sandeepreddygantla.github.io/Resume/) -->
 
 
-<h3 align="left">Connect with me:</h3>
+<!--- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reddysandeep090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepreddygantla" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gantlasandeeprreddy2r3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepreddygantla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gantla_sandeep_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vsandeepreddygantla" height="30" width="40" /></a>
   <a href="https://www.facebook.com/gantlasandeepreddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeepreddygantla" height="30" width="40" /></a>
-</p>
+</p>  -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,7 +42,7 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
@@ -109,4 +109,4 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepreddygantla&show_icons=true&locale=en" alt="sandeepreddygantla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&" alt="sandeepreddygantla" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepreddygantla&" alt="sandeepreddygantla" /></p> -->
